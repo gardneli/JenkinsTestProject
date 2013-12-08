@@ -24,6 +24,7 @@ public class HelloWorldResource {
 /* Test 
  
  * 
+ * 
  */
     @EJB
     private NamedStorageBean nameStorage = new NamedStorageBean();
