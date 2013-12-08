@@ -21,7 +21,7 @@ import javax.ws.rs.Consumes;
 @Stateless
 @Path("/helloWorld")
 public class HelloWorldResource {
-
+/* Test */
     @EJB
     private NamedStorageBean nameStorage = new NamedStorageBean();
 
