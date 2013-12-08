@@ -11,7 +11,7 @@ import javax.ejb.Singleton;
 */
 @Singleton
 public class NamedStorageBean {
-
+/* test */
     // name field
     private String name = "NetBeans, Hudson, Maven, and WLS";
 
